@@ -50,6 +50,26 @@
 
 > Belum tersedia online.
 
+### Capture Dashboard
+
+[![DropYourTask Demo](https://raw.githubusercontent.com/Urproject/DropYourTask/main/assets/img/DropYourTask-Dashboard.png)](https://raw.githubusercontent.com/Urproject/DropYourTask/main/assets/img/DropYourTask-Dashboard.png)
+
+### Capture Submission
+
+[![DropYourTask Submission](https://raw.githubusercontent.com/Urproject/DropYourTask/main/assets/img/DropYourTask-Submission.png)](https://raw.githubusercontent.com/Urproject/DropYourTask/main/assets/img/DropYourTask-Submission.png)
+
+### Capture List Submission
+
+[![DropYourTask List Submission](https://raw.githubusercontent.com/Urproject/DropYourTask/main/assets/img/DropYourTask-List%20Submission.png)](https://raw.githubusercontent.com/Urproject/DropYourTask/main/assets/img/DropYourTask-List%20Submission.png)
+
+### Capture Detail Class
+
+[![DropYourTask Detail Class](https://raw.githubusercontent.com/Urproject/DropYourTask/main/assets/img/DropYourTask-Detail%20Class.png)](https://raw.githubusercontent.com/Urproject/DropYourTask/main/assets/img/DropYourTask-Detail%20Class.png)
+
+### Capture List Class
+
+[![DropYourTask List Class](https://raw.githubusercontent.com/Urproject/DropYourTask/main/assets/img/DropYourTask-Class.png)](https://raw.githubusercontent.com/Urproject/DropYourTask/main/assets/img/DropYourTask-Class.png)
+
 ---
 
 ## ⚙️ Tech Stack
