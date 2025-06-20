@@ -50,27 +50,57 @@
 
 > Belum tersedia online.
 
-### Capture Dashboard
+## 📸 Screenshot
 
-[![DropYourTask Demo](https://raw.githubusercontent.com/Urproject/DropYourTask/main/assets/img/DropYourTask-Dashboard.png)](https://raw.githubusercontent.com/Urproject/DropYourTask/main/assets/img/DropYourTask-Dashboard.png)
+<div align="center">
 
-### Capture Submission
+<table>
+    <tr>
+        <th align="center">Dashboard</th>
+        <th align="center">Submission</th>
+        <th align="center">List Submission</th>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://raw.githubusercontent.com/Urproject/DropYourTask/main/assets/img/DropYourTask-Dashboard.png">
+                <img src="https://raw.githubusercontent.com/Urproject/DropYourTask/main/assets/img/DropYourTask-Dashboard.png" alt="Dashboard" width="250"/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://raw.githubusercontent.com/Urproject/DropYourTask/main/assets/img/DropYourTask-Submission.png">
+                <img src="https://raw.githubusercontent.com/Urproject/DropYourTask/main/assets/img/DropYourTask-Submission.png" alt="Submission" width="250"/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://raw.githubusercontent.com/Urproject/DropYourTask/main/assets/img/DropYourTask-List%20Submission.png">
+                <img src="https://raw.githubusercontent.com/Urproject/DropYourTask/main/assets/img/DropYourTask-List%20Submission.png" alt="List Submission" width="250"/>
+            </a>
+        </td>
+    </tr>
+</table>
 
-[![DropYourTask Submission](https://raw.githubusercontent.com/Urproject/DropYourTask/main/assets/img/DropYourTask-Submission.png)](https://raw.githubusercontent.com/Urproject/DropYourTask/main/assets/img/DropYourTask-Submission.png)
+<br/>
 
-### Capture List Submission
+<table>
+    <tr>
+        <th align="center">Detail Class</th>
+        <th align="center">List Class</th>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://raw.githubusercontent.com/Urproject/DropYourTask/main/assets/img/DropYourTask-Detail%20Class.png">
+                <img src="https://raw.githubusercontent.com/Urproject/DropYourTask/main/assets/img/DropYourTask-Detail%20Class.png" alt="Detail Class" width="250"/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://raw.githubusercontent.com/Urproject/DropYourTask/main/assets/img/DropYourTask-Class.png">
+                <img src="https://raw.githubusercontent.com/Urproject/DropYourTask/main/assets/img/DropYourTask-Class.png" alt="List Class" width="250"/>
+            </a>
+        </td>
+    </tr>
+</table>
 
-[![DropYourTask List Submission](https://raw.githubusercontent.com/Urproject/DropYourTask/main/assets/img/DropYourTask-List%20Submission.png)](https://raw.githubusercontent.com/Urproject/DropYourTask/main/assets/img/DropYourTask-List%20Submission.png)
-
-### Capture Detail Class
-
-[![DropYourTask Detail Class](https://raw.githubusercontent.com/Urproject/DropYourTask/main/assets/img/DropYourTask-Detail%20Class.png)](https://raw.githubusercontent.com/Urproject/DropYourTask/main/assets/img/DropYourTask-Detail%20Class.png)
-
-### Capture List Class
-
-[![DropYourTask List Class](https://raw.githubusercontent.com/Urproject/DropYourTask/main/assets/img/DropYourTask-Class.png)](https://raw.githubusercontent.com/Urproject/DropYourTask/main/assets/img/DropYourTask-Class.png)
-
----
+</div>
 
 ## ⚙️ Tech Stack
 
